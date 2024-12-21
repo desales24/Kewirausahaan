@@ -1,0 +1,12 @@
+@startuml
+:Melakukan Pemesanan;
+note right: Customer Services
+:Merencanakan Menu;
+note right: Ahli Gizi
+:Menyiapkan Makanan;
+note right: Koki
+:Mengemas Makanan;
+note right: Tim Pengemasan
+:Mengantarkan Makanan;
+note right: Staf Logistik
+@enduml
